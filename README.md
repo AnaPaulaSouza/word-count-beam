@@ -10,8 +10,11 @@ Aplicações que escreve no Storage e no Pub/Sub
 Java
 
 Google Cloud Platform:
+
   Pub/Sub
+  
   DataFlow
+  
   Storage
 
 
